@@ -12,7 +12,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <!-- http或者https链接的ipa文件地址 -->
+     <!-- href="itms-services://?action=download-manifest&url=https%3a%2f%2fraw.githubusercontent.com%2fjabizb%2fplist%2fmaster%2fdkgn2.plist"-->
      <string>https://ad.infoxgame.com/YinHuOA-H5/app/ios/yh.ipa</string>
     </dict>
     <dict>
